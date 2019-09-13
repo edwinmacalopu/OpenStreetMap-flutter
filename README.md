@@ -13,6 +13,7 @@ https://basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png         white
 https://basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png         no label white
 https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png    cartodb
 
+more styles : http://leaflet-extras.github.io/leaflet-providers/preview/index.html
 
 # image
  <table style="height: 78px; width: 925px;">
