@@ -9,7 +9,7 @@ https://c.tile.openstreetmap.org/{z}/{x}/{y}.png
 http://tiles.maps.sputnik.ru/{z}/{x}/{y}.png
 
 # image
-(https://raw.githubusercontent.com/edwinmacalopu/openstreetmap-flutter/master/Screenshot_20190913-152916.jpg)
+<img src="https://raw.githubusercontent.com/edwinmacalopu/openstreetmap-flutter/master/Screenshot_20190913-152916.jpg" width=300>
 
 
 ## Getting Started
