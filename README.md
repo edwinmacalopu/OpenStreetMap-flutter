@@ -1,6 +1,16 @@
-# openstreetmap
+# openstreetmap in Flutter
 
-A new Flutter project.
+ Through the OpenStreetMaps tiles function we can add completely free maps in your flutter application
+You can use different recommended tiles:
+
+https://a.tile.openstreetmap.org/{z}/{x}/{y}.png
+https://b.tile.openstreetmap.org/{z}/{x}/{y}.png
+https://c.tile.openstreetmap.org/{z}/{x}/{y}.png
+http://tiles.maps.sputnik.ru/{z}/{x}/{y}.png
+
+# image
+
+
 
 ## Getting Started
 
