@@ -8,9 +8,18 @@ https://b.tile.openstreetmap.org/{z}/{x}/{y}.png
 https://c.tile.openstreetmap.org/{z}/{x}/{y}.png
 http://tiles.maps.sputnik.ru/{z}/{x}/{y}.png
 
+https://basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png         black
+https://basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png         white
+https://basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png         no label white
+https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png    cartodb
+
+
 # image
 <img src="https://raw.githubusercontent.com/edwinmacalopu/openstreetmap-flutter/master/Screenshot_20190913-152916.jpg" width=300>
-
+<img src="https://raw.githubusercontent.com/edwinmacalopu/OpenStreetMap-flutter/master/black.jpg" width=300>
+<img src="https://raw.githubusercontent.com/edwinmacalopu/OpenStreetMap-flutter/master/cartodb.jpg" width=300>
+<img src="https://raw.githubusercontent.com/edwinmacalopu/OpenStreetMap-flutter/master/white-label.jpg" width=300>
+<img src="https://raw.githubusercontent.com/edwinmacalopu/OpenStreetMap-flutter/master/white-nolabel.jpg" width=300>
 
 ## Getting Started
 
