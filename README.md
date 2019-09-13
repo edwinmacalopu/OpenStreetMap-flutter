@@ -16,7 +16,7 @@ https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png    cart
 more styles : http://leaflet-extras.github.io/leaflet-providers/preview/index.html
 
 # image
- <table style="height: 78px; width: 925px;">
+<table style="height: 78px; width: 925px;">
 <tbody>
 <tr style="height: 715px;">
 <td style="width: 37px; height: 715px;">
@@ -43,7 +43,12 @@ more styles : http://leaflet-extras.github.io/leaflet-providers/preview/index.ht
 <p>&nbsp;<img src="https://raw.githubusercontent.com/edwinmacalopu/OpenStreetMap-flutter/master/white-nolabel.jpg" alt="" width="300" /></p>
 <p>https://basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png</p>
 </td>
-<td style="width: 343px; height: 18px;">&nbsp;</td>
+<td style="width: 343px; height: 18px;">
+<p>&nbsp;<img src="https://raw.githubusercontent.com/edwinmacalopu/OpenStreetMap-flutter/master/hidraa.jpg" alt="" width="300" /></p>
+<div>
+<div>https://tile.openstreetmap.se/hydda/full/{z}/{x}/{y}.png</div>
+</div>
+</td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 37px; height: 18px;">&nbsp;</td>
