@@ -25,8 +25,7 @@ class _MyAppState extends State<MyApp> {
               MapOptions(center: LatLng(-12.069783, -77.034057), zoom: 13.0),
           layers: [
             TileLayerOptions(
-                urlTemplate:
-                    'https://c.tile.openstreetmap.org/{z}/{x}/{y}.png'),
+                urlTemplate: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png'),
             MarkerLayerOptions(markers: [
               Marker(
                   width: 30.0,
