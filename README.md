@@ -3,9 +3,9 @@
  Through the OpenStreetMaps tiles function we can add completely free maps in your flutter application
 You can use different recommended tiles:
 
-https://a.tile.openstreetmap.org/{z}/{x}/{y}.png
-https://b.tile.openstreetmap.org/{z}/{x}/{y}.png
-https://c.tile.openstreetmap.org/{z}/{x}/{y}.png
+https://tile.openstreetmap.org/{z}/{x}/{y}.png
+https://tile.openstreetmap.org/{z}/{x}/{y}.png
+https://tile.openstreetmap.org/{z}/{x}/{y}.png
 http://tiles.maps.sputnik.ru/{z}/{x}/{y}.png
 
 https://basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png         black
@@ -20,7 +20,7 @@ more styles : http://leaflet-extras.github.io/leaflet-providers/preview/index.ht
 <tbody>
 <tr style="height: 715px;">
 <td style="width: 37px; height: 715px;">
-<p><img src="https://raw.githubusercontent.com/edwinmacalopu/OpenStreetMap-flutter/master/Screenshot_20190913-152916.jpg" alt="" width="300" /><a href="https://a.tile.openstreetmap.org/%7Bz%7D/%7Bx%7D/%7By%7D.png" rel="nofollow">https://a.tile.openstreetmap.org/{z}/{x}/{y}.png</a></p>
+<p><img src="https://raw.githubusercontent.com/edwinmacalopu/OpenStreetMap-flutter/master/Screenshot_20190913-152916.jpg" alt="" width="300" /><a href="https://tile.openstreetmap.org/%7Bz%7D/%7Bx%7D/%7By%7D.png" rel="nofollow">https://tile.openstreetmap.org/{z}/{x}/{y}.png</a></p>
 </td>
 <td style="width: 343px; height: 715px;">
 <p>&nbsp;<img src="https://raw.githubusercontent.com/edwinmacalopu/OpenStreetMap-flutter/master/black.jpg" alt="" width="300" /></p>
